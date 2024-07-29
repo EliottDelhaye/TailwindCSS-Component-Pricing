@@ -15,15 +15,15 @@ It is built to be both visually appealing and functional across all device types
 
 Desktop view:
 
-![Desktop View](Capture-1.png)
+![Desktop View](captures/Capture-1.png)
 
 Tablet view:
 
-![Tablet View](Capture-2.png)
+![Tablet View](captures/Capture-2.png)
 
 Mobile view:
 
-![Mobile View](Capture-3.png)
+![Mobile View](captures/Capture-3.png)
 
 ## Usage
 
@@ -36,4 +36,4 @@ To incorporate this pricing component into your project, copy the contents of `p
 
 ## Access
 
-For a live demonstration of the pricing component, visit:
+For a live demonstration of the pricing component, visit: https://eliottdelhaye.github.io/TailwindCSS-Component-Pricing/
